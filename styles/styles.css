@@ -7,9 +7,9 @@
 }
 
 .photo {
-	/*box-shadow: 10px 12px 20px #000;*/
-	/*-webkit-animation: pulse 5s infinite alternate;*/
-    /*background-color: #fff;*/
+/*	box-shadow: 10px 12px 20px #000;
+	-webkit-animation: pulse 5s infinite alternate;
+    background-color: #fff;*/
     cursor: move;
     position: relative;
     overflow: hidden;
@@ -31,7 +31,7 @@
 }
 
 body {
-  background-color: #f4f4f4!important;	
+  background-color: #f4f4f4!Im;	
 
 } 
 
