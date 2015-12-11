@@ -2,8 +2,8 @@
 
 .main {
 	text-align: center;
-	padding-top: 0px;
-  background-color: #f4f4f4;
+	padding-top: 50px;
+  background-color: transparent;
 }
 
 .photo {
@@ -20,6 +20,16 @@
 
 .audio-container {
 	padding: 30px;
+}
+
+.title p {
+  padding-right: 25px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  color: #ff1919;
+  font-family: 'Coming Soon', cursive;
+  font-size: 30px;
 }
 
 @-webkit-keyframes pulse {
