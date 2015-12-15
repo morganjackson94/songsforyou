@@ -27,11 +27,25 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  color: #fff;
+  color: #222;
   font-family: 'Coming Soon', cursive;
   font-size: 30px;
 }
-q
+
+
+.song-title {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 25px;
+  color: #222;
+}
+
+.nowplaying {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding-left: 25px;
+}
+
 @-webkit-keyframes pulse {
       0% {background-color: #fff;}
      25% {background-color: #FFF5A5;}
@@ -41,7 +55,9 @@ q
 }
 
 body {
-  /*background-color: #f4f4f4!important;*/	
+  background: url('http://res.cloudinary.com/duceyomw7/image/upload/v1450203897/keri1_e2ktsg.jpg') no-repeat center center fixed!important;	
+  background-size: 100%;
+  background-size: cover!important;
 
 } 
 
