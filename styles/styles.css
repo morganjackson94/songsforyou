@@ -27,7 +27,7 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  color: #222;
+  color: #fff;
   font-family: 'Coming Soon', cursive;
   font-size: 25px;
 }
@@ -36,7 +36,7 @@
 .song-title {
   font-family: 'Helvetica Neue', sans-serif;
   font-size: 25px;
-  color: #222;
+  color: #fff;
 }
 
 .nowplaying {
@@ -55,9 +55,9 @@
 }
 
 body {
-  background: url('http://res.cloudinary.com/duceyomw7/image/upload/v1450272140/sfy2_q84yvy.jpg') no-repeat center center fixed!important;	
+  background: url('http://res.cloudinary.com/duceyomw7/image/upload/v1450451120/Scanned_Image_1_copy_ghxlji.jpg') no-repeat center center fixed!important;	
   background-size: 100%;
-  background-size: 75%!important;
+  background-size: cover!important;
 
 } 
 
