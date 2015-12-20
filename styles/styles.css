@@ -1,5 +1,10 @@
 
 
+body {
+  background-color: #BE2625!important;
+}
+
+
 .main {
 	text-align: center;
 	padding-top: 50px;
@@ -53,13 +58,6 @@
      75% {background-color: #99D2E4;}
      100% {background-color: #D8CAB4;}
 }
-
-body {
-  background: url('http://res.cloudinary.com/duceyomw7/image/upload/v1450451120/Scanned_Image_1_copy_ghxlji.jpg') no-repeat center center fixed!important;	
-  background-size: 100%;
-  background-size: cover!important;
-
-} 
 
 video#bgvid { 
     position: fixed;
