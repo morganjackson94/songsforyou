@@ -1,8 +1,8 @@
 
 
 body {
-  background: url('http://i.imgur.com/dITfJcR.gif?noredirect') center center!important ;
-  background-size: 40%!important;
+  background: url('http://25.media.tumblr.com/tumblr_m9d9juZqBw1r6q7tio1_500.gif') center center!important ;
+  background-size: cover!important;
 }
 
 
@@ -34,7 +34,7 @@ body {
   position: fixed;
   bottom: 0;
   right: 0;
-  color: #222;
+  color: #fff;
   font-family: 'Coming Soon', cursive;
   font-size: 25px;
 }
@@ -43,7 +43,7 @@ body {
 .song-title {
   font-family: 'Helvetica Neue', sans-serif;
   font-size: 25px;
-  color: #222;
+  color: #fff;
 }
 
 .nowplaying {
