@@ -1,7 +1,7 @@
 
 
 body {
-  background: url('http://cdn.thedarkroom.com/86430029_5781_lrg_1451961573.jpg') center center!important ;
+  background: url('http://i56.tinypic.com/n2jzft.jpg') center center!important ;
   background-size: cover!important;
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 .photo {
-	box-shadow: 5px 6px 10px #222;
+	box-shadow: 5px 6px 10px #000;
 	-webkit-animation: pulse 5s infinite alternate;
     background-color: #fff;
     margin-top: 80px;
