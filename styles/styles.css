@@ -1,21 +1,21 @@
 
 
 body {
-  background: url('http://i56.tinypic.com/n2jzft.jpg') center center!important ;
-  background-size: cover!important;
+  background-color: #0e1717!important;
+  /*background: url('http://theartmad.com/wp-content/uploads/Dark-Grey-Textured-Background-4.jpg') center center!important ;*/
+  /*background-size: cover!important;*/
 }
 
 
 .main {
 	text-align: center;
-	padding-top: 50px;
-  background-color: transparent;
+	padding-top: 70px;
+
 }
 
 .photo {
 	box-shadow: 5px 6px 10px #000;
-	-webkit-animation: pulse 5s infinite alternate;
-    background-color: #fff;
+	/*-webkit-animation: pulse 5s infinite alternate;*/
     margin-top: 80px;
     cursor: move;
     position: relative;
