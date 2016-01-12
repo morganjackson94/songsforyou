@@ -21,7 +21,7 @@ body {
     position: relative;
     overflow: hidden;
     max-width: 100%;
-    width: 30%;
+    width: 50%;
 
 }
 
@@ -42,6 +42,7 @@ body {
 
 .song-title {
   font-family: 'Helvetica Neue', sans-serif;
+  font-style: italic;
   font-size: 25px;
   color: #fff;
 }

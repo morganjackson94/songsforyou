@@ -1,6 +1,8 @@
 $(document).ready(function() {
 		playSong();
 
+	$('body').hide().fadeIn(3000);	
+
 	$(function() {
     	$( "#draggable" ).draggable();
   	});
