@@ -21,7 +21,8 @@ body {
     position: relative;
     overflow: hidden;
     max-width: 100%;
-    width: 50%;
+    width: 45%;
+    -webkit-transform: rotate(90deg);
 
 }
 
