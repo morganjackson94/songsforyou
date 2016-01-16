@@ -1,9 +1,9 @@
 
 
 body {
-  /*background-color: #000!important;*/
-  background: url('https://media.giphy.com/media/fiLtJYWzxcNuE/giphy.gif') center center!important ;
-  background-size: cover!important;
+  background-color: #660000!important;
+  /*background: url('https://media.giphy.com/media/fiLtJYWzxcNuE/giphy.gif') center center!important ;
+  background-size: cover!important;*/
 }
 
 
@@ -14,15 +14,17 @@ body {
 }
 
 .photo {
-	box-shadow: 5px 6px 10px #000;
-	/*-webkit-animation: pulse 5s infinite alternate;*/
-    margin-top: 80px;
+	box-shadow: 5px 6px 35px #222;
+  border: 7px solid #fff;
+  border-bottom: 70px solid #fff;
+	-webkit-animation: pulse 5s infinite alternate;
+    margin-top: 100px;
     cursor: move;
     position: relative;
     overflow: hidden;
     max-width: 100%;
-    width: 45%;
-    -webkit-transform: rotate(90deg);
+    width: 38%;
+    -webkit-transform: rotate(0deg);
 
 }
 

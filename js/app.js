@@ -1,7 +1,7 @@
 $(document).ready(function() {
 		playSong();
 
-	$('body').hide().fadeIn(3000);	
+	$('body').hide().fadeIn(1000);	
 
 	$(function() {
     	$( "#draggable" ).draggable();
