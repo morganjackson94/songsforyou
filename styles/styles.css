@@ -15,7 +15,7 @@ body {
 
 .photo {
 	box-shadow: 5px 6px 35px #222;
-  border: 7px solid #fff;
+  border: 10px solid #fff;
   border-bottom: 70px solid #fff;
 	-webkit-animation: pulse 5s infinite alternate;
     margin-top: 100px;
