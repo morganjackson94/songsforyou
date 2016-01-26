@@ -1,7 +1,7 @@
 
 
 body {
-  background-color: #000!important;
+  background-color: #000019!important;
   /*background: url('https://media.giphy.com/media/fiLtJYWzxcNuE/giphy.gif') center center!important ;
   background-size: cover!important;*/
 }
@@ -14,17 +14,17 @@ body {
 }
 
 .photo {
-	box-shadow: 5px 6px 35px #222;
-  /*border: 10px solid #fff;
+	/*box-shadow: 5px 6px 35px #222;
+  border: 10px solid #fff;
   border-bottom: 70px solid #fff;*/
-	/*-webkit-animation: pulse 5s infinite alternate;*/
-    margin-top: 100px;
+	-webkit-animation: pulse 5s infinite alternate;
+    margin-top: 35px;
     cursor: pointer;
     position: relative;
     overflow: hidden;
     max-width: 100%;
     width: 40%;
-    -webkit-transform: rotate(90deg);
+    -webkit-transform: rotate(0deg);
 
 }
 
